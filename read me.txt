@@ -1,0 +1,4 @@
+2018年7月21日备份
+功能：使用PercentRelativeLayout 进行自适应布局
+         添加opencv
+         将libs文件夹里的百度地图的so文件全部添加到jniLibs里
